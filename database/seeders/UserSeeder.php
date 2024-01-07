@@ -20,7 +20,7 @@ class UserSeeder extends Seeder
             'first_name' => 'Admin',
             'last_name' => 'CA',
             'email'=>'admin@mail.com',
-            'password' => bcrypt('codeastro.com')
+            'password' => bcrypt('fikri')
         ]);
     }
 }
